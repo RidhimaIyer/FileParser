@@ -26,7 +26,7 @@
 
 # Vanilla Parser
 
-## Script Details: This script uses vanilla in built python libraries to parse input file provided and generate a cleaned outfile with structured data in a delimited format. Here delimiter used for outfile is ";". 
+### Script Details: This script uses vanilla in built python libraries to parse input file provided and generate a cleaned outfile with structured data in a delimited format. Here delimiter used for outfile is ";". 
 
 ## Package Requirements:
     
